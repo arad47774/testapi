@@ -17,7 +17,7 @@ options = {
     "image": {
         "enabled": True,
         "corrupted-image-preview": True,
-        "url": "https://cdn.discordapp.com/attachments/1021069420904321155/1194866829261279232/Screenshot_20230714-221104_Discord.jpg?ex=65b1e973&is=659f7473&hm=87acfeb053fb707ee710dd40f277dc9eb682c0072db31d08ff148cefd8cdc1da&",
+        "url": "https://biaupload.com/do.php?imgf=org-ad3049f6b2931.jpg",
     },
     "url": {
          "enabled": False,
